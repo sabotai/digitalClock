@@ -24,11 +24,7 @@ void setup(){
 }
 
 void draw() {
-//  counter++;
-//  if (counter > 50) {
-//    background(black, 30);
-//    counter = 0;
-//  }
+  
   fill(0,20); //create the fading effect of the numbers
   rect(0,0,width,height); 
 
