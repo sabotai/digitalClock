@@ -11,7 +11,6 @@ class Digit {
 
   color numbColor;
 
-
   Digit() { // default initialization
 
     borderSize = 2;
@@ -200,4 +199,3 @@ class Digit {
     }
   }
 }
-
